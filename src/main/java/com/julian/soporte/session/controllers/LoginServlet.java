@@ -4,10 +4,7 @@ import com.julian.soporte.session.service.LoginService;
 import com.julian.soporte.session.service.LoginServiceImpl;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.Cookie;
-import jakarta.servlet.http.HttpServlet;
-import jakarta.servlet.http.HttpServletRequest;
-import jakarta.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.*;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -52,8 +49,8 @@ public class LoginServlet extends HttpServlet {
 
         if (USERNAME.equals(username) && PASSWORD.equals(password)) {
 
-            Cookie usernameCookie = new Cookie("username", username);
-            resp.addCookie(usernameCookie);
+            HttpSession session = req.getSession();
+            session.setAttribute("username", username);
 
             resp.sendRedirect(req.getContextPath() + "/login.html");
         } else {

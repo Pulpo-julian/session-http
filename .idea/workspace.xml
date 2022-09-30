@@ -5,39 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe0e7c83-0ec6-465f-982d-6eb28f578f4b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/julian/soporte/cookie/controllers/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/julian/soporte/session/controllers/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/julian/soporte/cookie/controllers/controllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/julian/soporte/session/controllers/controllers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/julian/soporte/cookie/models/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/julian/soporte/session/models/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/julian/soporte/cookie/service/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/julian/soporte/session/service/ProductoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/julian/soporte/cookie/service/ProductoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/julian/soporte/session/service/ProductoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/julian/soporte/cookie/controllers/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/julian/soporte/cookie/controllers/controllers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/julian/soporte/cookie/models/Producto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/julian/soporte/cookie/service/ProductoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/julian/soporte/cookie/service/ProductoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/WEB-INF/classes/com/julian/soporte/cookie/controllers/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/WEB-INF/classes/com/julian/soporte/cookie/controllers/controllers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/WEB-INF/classes/com/julian/soporte/cookie/models/Producto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/WEB-INF/classes/com/julian/soporte/cookie/service/ProductoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/WEB-INF/classes/com/julian/soporte/cookie/service/ProductoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/WEB-INF/lib/jackson-annotations-2.13.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/WEB-INF/lib/jackson-core-2.13.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/WEB-INF/lib/jackson-databind-2.13.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cookie/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/julian/soporte/session/controllers/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/julian/soporte/session/controllers/LoginServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664555158491</updated>
-      <workItem from="1664555159765" duration="1584000" />
+      <workItem from="1664555159765" duration="3156000" />
     </task>
     <servers />
   </component>
